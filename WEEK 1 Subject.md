@@ -1,5 +1,5 @@
 **SUBJECT**\
 List of topics 
-- *Ethics*
-- *Moral*
-- *Law*
+1. *Ethics*
+2. *Moral*
+3. *Law*
